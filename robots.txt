@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://barievroman2.github.io/dina-matveeva-psychologist/sitemap.xml
+
+Sitemap: https://dina-matveeva-psychologist.pages.dev/sitemap.xml
