@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": "self-reflection-01",
+      "title": "Саморефлексия: исследование внутреннего мира",
+      "price": 290,
+      "currency": "RUB",
+      "status": "in_development",
+      "cover": "../assets/products/self-reflection-cover.svg",
+      "pdf": null,
+      "purchaseUrl": null,
+      "description": "Авторский материал с вопросами для самонаблюдения и письменными упражнениями. Содержание уточняется до запуска."
+    }
+  ]
+}
